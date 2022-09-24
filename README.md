@@ -10,6 +10,6 @@ Meu nome é Jefferson Martins, tenho 24 anos e sou Desnvolvedor Web Full-Stack!
 
 ## Estatísticas
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffM4r&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffM4r&layout=compact&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JeffM4r&show_icons=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffM4r&layout=compact&theme=tokyonight" />
 </div>
